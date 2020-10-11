@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    background-color: lightblue;
+}
+
+
+ .container {
+     text-align: center;
+ }
+
+ #title {
+     background-color: lightcoral;
+ }
